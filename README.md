@@ -16,6 +16,10 @@ Cada carpeta contiene su propio README detallando el propósito y la funcionalid
 
 Antes de usar estos códigos, asegúrate de tener configurado el entorno de desarrollo para ESP32. Puedes seguir la [documentación oficial de Espressif](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html) para obtener más información sobre cómo configurar el entorno.
 
+## Agradecimientos
+
+- Agradecemos a [UncleRus](https://github.com/UncleRus) por proporcionar librerías útiles que se utilizan en algunos de los códigos de este repositorio. Puedes encontrar las librerías en su repositorio [esp-idf-lib](https://github.com/UncleRus/esp-idf-lib).
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes códigos adicionales, mejoras o correcciones que quisieras agregar a este repositorio, siéntete libre de enviar un pull request.
