@@ -5,7 +5,7 @@ Este repositorio contiene una colección de códigos base y ejemplos para la tar
 ## Contenido
 
 - [**[LoRa](https://github.com/jrovz/ejemplos_esp32/tree/master/Lora_com)**]: Ejemplos de uso del módulo LoRa en ESP32.
-- [**[PWM](https://github.com/jrovz/ejemplos_esp32/tree/master/PWM)**](PWM/): Ejemplos de control de señales PWM en ESP32.
+- [**[PWM](https://github.com/jrovz/ejemplos_esp32/tree/master/PWM)**]: Ejemplos de control de señales PWM en ESP32.
 - [**[Blink](https://github.com/jrovz/ejemplos_esp32/tree/master/blink_from_scrath)**]: Ejemplos que demuestran cómo hacer parpadear LEDs.
 - [**ESP-NOW**](ESP_NOW/): Códigos y ejemplos de uso de ESP-NOW para la comunicación entre dispositivos ESP32.
 - [**Otros Ejemplos**](Other_Examples/): Aquí encontrarás ejemplos adicionales y proyectos variados.
