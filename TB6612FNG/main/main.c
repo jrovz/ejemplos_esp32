@@ -18,12 +18,13 @@ void app_main() {
     dcmotor_init(&motor1);
     dcmotor_init(&motor2);
 
-    // Controlar la velocidad de los motores PWM valores entre 0 - 255
+    // Controlar la velocidad de los motores
     esp_err_t err1 = dcmotor_set_speed(&motor1, 150);
     esp_err_t err2 = dcmotor_set_speed(&motor2, 200);
 
     if (err1 != ESP_OK || err2 != ESP_OK) {
         // Manejo de errores
+        // Puedes imprimir mensajes de error o hacer otras acciones aquí
     }
 
     // Esperar durante 5 segundos
